@@ -30,3 +30,37 @@
 *.exe
 *.out
 *.app
+
+# Binaries
+*.uf2
+*.elf
+*.bin
+*.dis
+*.map
+*.hex
+
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts
+cmake_install.cmake
+Makefile
+Testing
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# Build artifacts
+build/
+elf2uf2/
+pioasm/
+generated/
+/pico-sdk/
+
+# VSCode
+.vscode/
+
+# Include tools
+!/tools/*
