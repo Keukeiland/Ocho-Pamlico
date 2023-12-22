@@ -1,3 +1,11 @@
+// GUYS THIS IS NON FUNCTIONAL ATM
+// ITS VERY BROKEN
+// DO NOT TRY TO FIX
+// -fizitzfux
+
+
+
+
 // Import libraries, defines and constants
 #include "include.h"
 
