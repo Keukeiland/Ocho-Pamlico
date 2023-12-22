@@ -1,3 +1,3 @@
 # Ocho-Pamlico
 
-Authors: Fizitzfux; 
+Authors: Fizitzfux;
