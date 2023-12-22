@@ -10,6 +10,5 @@
 
 // Media assets
 extern ALIGNED const u8 LogoImg[7480];
-extern const u8 RiverSnd[1017814];
 
 #endif // _MAIN_H
